@@ -10,7 +10,7 @@ The Camera App is a simple Flutter application that allows users to capture imag
 
 ## Screenshots
 
-![WhatsApp Image 2023-07-10 at 20 49 17](https://github.com/suman1406/Camera_Photo_Size/assets/119001618/eae9fab4-baff-4379-b9e6-4932e3973aa8)
+![WhatsApp Image 2023-07-10 at 20 52 59](https://github.com/suman1406/Camera_Photo_Size/assets/119001618/90ce4e4a-a76a-4a91-83c3-917224521156)
 
 
 ![WhatsApp Image 2023-07-10 at 20 53 06](https://github.com/suman1406/Camera_Photo_Size/assets/119001618/f57e8926-8d23-4c41-a0ad-bc79ab11c901)
